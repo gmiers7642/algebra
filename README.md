@@ -1,1 +1,3 @@
 # algebra
+
+This is a library that I'm writing to do algebraic computations.  I guess this is my way of fnially learning abstract algebra for real...
